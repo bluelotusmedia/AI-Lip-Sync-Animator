@@ -1,0 +1,5 @@
+{
+  "name": "AI Lip-Sync Animator",
+  "description": "Bring photos to life with text-to-speech and lip-syncing. Upload a portrait, write a script, and generate a talking video.",
+  "requestFramePermissions": []
+}
